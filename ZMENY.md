@@ -1,0 +1,70 @@
+# PDA Suite 3J — zmeny
+
+## 3.1.3 — 2026-09-25
+
+**Vlastný repozitár** — verzia 3J má odteraz samostatný repozitár [JaroTvarozek/PDA-3J](https://github.com/JaroTvarozek/PDA-3J). Adresa aktualizácií ukazuje naň, takže Tampermonkey novú verziu stiahne sám. Všetky staršie verzie sú v `archiv/`. Vzhľad ani funkcie sa nemenili.
+
+## 3.1.2 — 2026-09-25
+
+**Pracovný zoznam až po spodok** — posuvný zoznam zákaziek siaha až nad pätku, pod ním
+ostáva len box *Prehľad zdrojov*. Produkcia mala pevných 460 px; výška sa teraz počíta
+len z vecí, ktoré od výšky zoznamu nezávisia (horný okraj zoznamu, box pod ním, pätka),
+takže neposkakuje. Najnižšia výška 260 px, pri chybe merania sa vráti pevných 460 px.
+
+## 3.1.1 — 2026-09-25
+
+**Hlavičky ako podfarbený pás** (ako v návrhu) — hlavička každej karty je pás cez celú
+šírku karty, jemne modrejší než karta a od obsahu oddelený tenkou bielou čiarou.
+Platí pre Stav operácie, Dokumentácia, Zákazka a materiál, SAP časy, Popis operácie,
+Paralelné procesy, Prehľad zdrojov, PDA a Pracovný zoznam. Pás je o odtieň tmavší
+a pod ním je viditeľná tenká modrosivá čiara.
+
+**Pracovný zoznam** — vybraný záznam je znovu tmavomodrý (nové farby plôch ho prebili
+a ostával svetlý).
+
+## 3.1.0 — 2026-09-25
+
+**Pozadie**
+- z obrázka pozadia odstránené texty „SLOVAKIA", „Better parts. A cleaner tomorrow."
+  a „People / Technology / Process / Results" — ostala len značka **HF**
+- plochy dopočítané z okolitých pixelov (bez viditeľných záplat), pozadie jemne dofarbené
+  do modra ako v návrhu; zdroj: `pozadie-3j.jpg` (50 kB, vložené v skripte)
+
+**Karty**
+- namiesto bielych plôch jemne sivomodré polopriehľadné „sklo" — pozadie cez ne presvitá
+- vnútorné okienka (jednotlivé SAP časy, paralelné procesy, pilulky v zozname,
+  tlačidlá panela PDA) tiež jemne sfarbené, nie biele
+- horný pruh a pätka priehľadné
+
+**Hlavičky** (Stav operácie, Dokumentácia, Zákazka a materiál, SAP časy, Popis operácie,
+Paralelné procesy, Pracovný zoznam, PDA) — všetky jednotne ako v návrhu: 16 px,
+polotučne, veľkými písmenami, rovnaké písmo
+
+**Zákazka a materiál** — popisok vľavo, hodnota vpravo, medzi riadkami tenká čiara,
+písmo Segoe UI; veľký názov materiálu oddelený čiarou
+
+**SAP časy** — o niečo širšie (pravý stĺpec mriežky 1,15 : 0,85)
+
+## 3.0.0 — 2026-09-25
+
+Vznik verzie 3J z produkčného buildu **2.3.0** (Daniel Gabriš).
+Všetky funkcie zachované; zmeny sú len vo vzhľade (modul **Dizajn 3J (Jaro)**,
+dá sa vypnúť v ⚙ → vráti vzhľad Production 2.3.0).
+
+**SAP ČASY**
+- každý graf (Setup / Machine / Labor) vo vlastnej orámovanej karte
+- nadpis grafu normálnym písmom a čas hneď pod ním, nad koláčom
+- väčší koláč (rastie so šírkou okna, 110–180 px), v strede percento a „hotovo"
+- pod koláčom legenda *Hotovo X % / Zostáva Y %*
+- karty sa rozťahujú vedľa seba podľa šírky; sekcia ako polopriehľadná karta
+
+**PARALELNÉ PROCESY**
+- každá položka ako biela karta namiesto zelenej plochy
+- pred textom ikona — zelená dlaždica so šípkami
+- stav tučne, meno pracovníka pod ním; veľký čas; *Zastaviť* ako červené tlačidlo
+
+**Celá stránka**
+- mimo kariet priehľadná — veľké panely (Osobný stav, pracovisko) nemajú vlastnú
+  plochu, medzi kartami presvitá pozadie HF Slovakia
+
+Dáta a čísla sa nemenia — percentá sa počítajú z časov, ktoré zobrazuje aplikácia.
