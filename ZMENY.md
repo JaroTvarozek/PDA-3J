@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.18 — 2026-09-26
+
+**Oprava po kontrole kódu** — posuvník *Výraznosť obrázkov na stavových tlačidlách* funguje aj vtedy, keď je modul Dizajn 3J vypnutý (pravidlo je teraz aj v základnom novom dizajne). Vzhľad s predvolenými nastaveniami sa nemení.
+
 ## 3.2.17 — 2026-09-26
 
 **Nastavenia ⚙ → Vzhľad** (nová časť, dve posuvníky, zmena je vidieť hneď, uloží sa tlačidlom „Uložiť a obnoviť stránku“; hodnoty idú aj do súboru s nastaveniami):
