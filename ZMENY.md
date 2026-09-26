@@ -1,5 +1,11 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.17 — 2026-09-26
+
+**Nastavenia ⚙ → Vzhľad** (nová časť, dve posuvníky, zmena je vidieť hneď, uloží sa tlačidlom „Uložiť a obnoviť stránku“; hodnoty idú aj do súboru s nastaveniami):
+- **Viditeľnosť obrázka v pozadí** — 0–100 %, **predvolené 70 %** (predtým vždy 100 %). Menej = svetlejší a menej rušivý obrázok (prekryje ho svetlý závoj).
+- **Výraznosť obrázkov na stavových tlačidlách** — 0–200 %, predvolené 100 % (= doterajší vzhľad). Do 100 % sa mení priehľadnosť obrázkov, nad 100 % sa zvyšuje ich jas (200 % = dvojnásobný jas).
+
 ## 3.2.16 — 2026-09-26
 
 **Drobné opravy po druhej kontrole kódu:**
