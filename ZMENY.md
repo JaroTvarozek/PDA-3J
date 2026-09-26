@@ -1,5 +1,17 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.12 — 2026-09-26
+
+**Okná appky — jeden vzhľad pre všetky** (BOM, potvrdenia, záznamy, správy, zmena používateľa, hlásenia chýb…). Spodná lišta s tlačidlami bola priehľadná a tlačidlá *Zavrieť* / *Načítať všetko* sa strácali na pozadí. Teraz má každé okno plnú bielu plochu, tenký tmavomodrý rám, tmavomodrú hlavičku s bielym nadpisom (ako Dokumentácia) a svetlú spodnú lištu so zreteľnými tlačidlami (biele s tmavomodrým rámom, pod myšou sa vyplnia). Hlavná akcia je plná tmavomodrá, súhlas zelený, odmietnutie červené; hlásenia chyby / varovania majú farebnú ikonu a pruh pod hlavičkou. Rozbaľovacie zoznamy majú tenký tmavomodrý obrys. Rovnako zladené aj vlastné okná skriptu (Výkresy, Popis operácie, HF menu, Nastavenia).
+
+**Popis operácie** — v okne sa text delí na riadky pri každej čiarke (bez medzier navyše; desatinná čiarka ako 0,8 ostáva). Okno je v strede obrazovky a veľké podľa textu; dlhý text má vpravo posuvník.
+
+**SAP ČASY** — priestorové koláče s výškou (naklonený prstenec so stenou, leskom a tieňom). Farby sedia s legendou: Hotovo modrá, Zostáva sivomodrá. Pri prechode myšou sa karta nadvihne ako tlačidlá a koláč sa zdvihne nad svoj tieň. Koláč appky ostáva pod ním (neviditeľný), údaje sa nemenia.
+
+**Rámy kariet** — aj vnútorné karty (SAP časy, paralelné procesy, dlaždice Výkres a BOM, tlačidlá panela PDA, Graf / Tabuľka, stavové tlačidlá) majú jemný tmavomodrý rám. Oprava 3.2.11: tri karty úvodnej obrazovky (Osobný stav, Vyhľadať zákazku, Pracoviská) mali stále svetlý rám.
+
+**Pätička** — bez slova „Jaro": *PDA App Extension · verzia 3J (…) · HF Slovakia*.
+
 ## 3.2.11 — 2026-09-26
 
 **Rám kariet tmavomodrý** (#13315c, ako hlavička Dokumentácia) — všetky samostatné karty sú jasne ohraničené aj na rušnom pozadí; vnútorné položky ostávajú bez neho.
