@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.7 — 2026-09-26
+
+**Rámy kariet na úvodnej obrazovke** — *Osobný stav*, *Vyhľadať zákazku* a *Pracoviská* majú rovnaký rám, plochu a tieň ako ostatné karty. Hlavne počas načítavania boli bez rámu a pod „čakacím" závojom aplikácie vyzerali ako vyblednuté obdĺžniky. Závoj je jemnejší a má zaoblenie karty. *Osobný stav* je odteraz samostatná karta (predtým priehľadný obal).
+
 ## 3.2.6 — 2026-09-26
 
 **Dokumentácia podľa vzoru** — tmavomodrá hlavička s ikonou dokumentu; *Výkres* a *Components / BOM* ako dve veľké dlaždice s ikonou v kruhu, podnadpisom a šípkou (Výkres svetlomodrý, BOM biely); Výkres ukazuje ďalej číslo výkresu a revíziu. Zvislá deliaca čiara oddeľuje prepínač *Stroj* a *Operation Complete*. Len vzhľad — obe tlačidlá robia to isté ako predtým.
