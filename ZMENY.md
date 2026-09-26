@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.3 — 2026-09-26
+
+**Popis operácie: plne biela karta** — rovnako ako Zákazka a materiál, bez priehľadnosti. Hlavička ostala rovnaká; pod myšou má karta jemný modrý nádych.
+
 ## 3.2.2 — 2026-09-26
 
 **Zákazka a materiál: biela karta so strojárskou grafikou** — len táto karta je plne biela (nie priehľadná) a vpravo dole má jemnú technickú kresbu: prírubu s otvormi na roztečnej kružnici, osi a kóty ako na výkrese. Hlavička ostala rovnaká ako na ostatných kartách.
