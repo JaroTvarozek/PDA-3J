@@ -1,5 +1,25 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.13 — 2026-09-26
+
+**Bočný panel PDA aj na hlavnej stránke** — panel (Výkresy, CHIPS, Majster, Materiál, TOOLSHOP, Ela, Flexus) je teraz aj na úvodnej obrazovke s pracoviskami, nielen v detaile pracoviska. Leží nad obsahom (nezaberá miesto) a dá sa schovať pásikom HF SLOVAKIA. Začína v jednej výške s kartou Vyhľadať zákazku, pri posúvaní stránky stojí a končí nad pätičkou (text v pätičke je vidieť). Na prihlásení, Reportoch, Správach, Rozvrhu a v Admine panel nie je.
+
+**Horné menu už nezakrýva tlačidlá Stretnutia / Prestávka / Čakanie** — obsah detailu bol o ~20 px vyšší ako obrazovka (výška ľavého zoznamu nepočítala s okrajmi panela pod ním), stránka sa preto dala posunúť a horná časť zaliezla pod hlavičku. Zoznam teraz končí presne nad pätičkou a posúvanie kolieskom v zozname už nepohne celou stránkou.
+
+**SAP ČASY** — hotová časť koláča je zelená (aj bodka „Hotovo" v legende).
+
+**Vyhľadať zákazku** — pole je 450 px široká pilulka so zaoblenými rohmi a tenkým tmavomodrým rámom dookola; ikonky zrušiť / hľadať sú na jej konci.
+
+**Hlavná stránka bez tlačidla *Hľadať výrobný príkaz*** — tlačidlo v hlavičke karty Pracoviská sa nezobrazuje (zákazky sa hľadajú v karte Vyhľadať zákazku); v appke ostáva, je len skryté.
+
+**Panely sa nedajú zbaliť** — Osobný stav (detail aj hlavná stránka) a panel pracoviska v detaile už nemajú šípku na zbalenie; obsah je vždy zobrazený.
+
+**Nadpis pracoviska v detaile** — namiesto „Arbeitsplatz: 5388 - PORTALKA FG 3010 CNC" len „5388 - PORTALKA FG 3010 CNC", o 50 % väčšie písmo (24 px) a tučne.
+
+**Výkres a Components / BOM** — pri prechode myšou sa nadvihnú ako ostatné tlačidlá.
+
+**Stavové tlačidlá** — obrázky v pozadí (Stretnutia, Prestávka, Čakanie, Výroba, Údržba…) sú o 30 % výraznejšie.
+
 ## 3.2.12 — 2026-09-26
 
 **Okná appky — jeden vzhľad pre všetky** (BOM, potvrdenia, záznamy, správy, zmena používateľa, hlásenia chýb…). Spodná lišta s tlačidlami bola priehľadná a tlačidlá *Zavrieť* / *Načítať všetko* sa strácali na pozadí. Teraz má každé okno plnú bielu plochu, tenký tmavomodrý rám, tmavomodrú hlavičku s bielym nadpisom (ako Dokumentácia) a svetlú spodnú lištu so zreteľnými tlačidlami (biele s tmavomodrým rámom, pod myšou sa vyplnia). Hlavná akcia je plná tmavomodrá, súhlas zelený, odmietnutie červené; hlásenia chyby / varovania majú farebnú ikonu a pruh pod hlavičkou. Rozbaľovacie zoznamy majú tenký tmavomodrý obrys. Rovnako zladené aj vlastné okná skriptu (Výkresy, Popis operácie, HF menu, Nastavenia).
