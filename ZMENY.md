@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.1.7 — 2026-09-26
+
+**Úvodná obrazovka: Pracoviská stále rozbalené** — šípka na zbalenie panela *Pracoviská* je skrytá a obsah je vždy zobrazený. Len vzhľad (CSS), nič sa neklika; ostatné panely sa nemenia.
+
 ## 3.1.6 — 2026-09-26
 
 **Hlavičky cez celú šírku karty** — pás hlavičky pri Dokumentácii, Zákazke a materiáli, SAP časoch a Stave operácie teraz siaha od okraja po okraj karty, začína hneď hore a má zaoblené oba horné rohy (ako Popis operácie). Prebíjali ho staršie pravidlá s iným odsadením — v Dokumentácii pravidlo s ID (6 px vľavo), v SAP časoch a Zákazke iné odsadenie karty. Paralelné procesy dostali rovnakú hlavičku (predtým ostali v starom malom písme, lebo ich produkcia štýluje selektorom s dvoma ID).
