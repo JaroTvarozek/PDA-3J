@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.2 — 2026-09-26
+
+**Zákazka a materiál: biela karta so strojárskou grafikou** — len táto karta je plne biela (nie priehľadná) a vpravo dole má jemnú technickú kresbu: prírubu s otvormi na roztečnej kružnici, osi a kóty ako na výkrese. Hlavička ostala rovnaká ako na ostatných kartách.
+
 ## 3.2.1 — 2026-09-26
 
 **Výraznejšie farby oblastí** — pruh vľavo 8 px (predtým 5), celý rám karty jemne vo farbe oblasti a tieň s jej nádychom; pod myšou a pri rozbalenej oblasti je rám ešte sýtejší.
