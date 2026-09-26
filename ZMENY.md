@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.1 — 2026-09-26
+
+**Výraznejšie farby oblastí** — pruh vľavo 8 px (predtým 5), celý rám karty jemne vo farbe oblasti a tieň s jej nádychom; pod myšou a pri rozbalenej oblasti je rám ešte sýtejší.
+
 ## 3.2.0 — 2026-09-26
 
 **Úvodná obrazovka: oblasti pracovísk vo farbe** (podľa vzoru) — každá oblasť má vlastnú farbu: pruh vľavo, dlaždicu ikony aj ikonu. Assembly modrá, Welding oranžová, Machining tmavomodrá, Quality Control zelená. Oblasť, ktorá sa objaví navyše, dostane automaticky ďalšiu farbu (fialová, ružová, zlatá, …) — dve nové oblasti nikdy nemajú rovnakú. Nové ikony v jednotnom štýle: kľúč, plameň, ozubené koleso, lupa, pre inú oblasť krabica. Rozbalená oblasť má jemný nádych svojej farby a rám v nej.
