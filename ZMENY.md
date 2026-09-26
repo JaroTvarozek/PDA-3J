@@ -1,5 +1,13 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.11 — 2026-09-26
+
+**Rám kariet tmavomodrý** (#13315c, ako hlavička Dokumentácia) — všetky samostatné karty sú jasne ohraničené aj na rušnom pozadí; vnútorné položky ostávajú bez neho.
+
+**Zákazka a materiál** — obrázok v pozadí o 25 % jemnejší (biely závoj), text sa číta lepšie.
+
+**Vyhľadať zákazku** — pole už nie je cez celú obrazovku, má šírku na 20 znakov.
+
 ## 3.2.10 — 2026-09-26
 
 **Oprava: nadpis POPIS OPERÁCIE** sa znovu zobrazuje. Od 3.2.3 ho zakrýval pás hlavičky — nadpis leží v inej vrstve než „Celý text ›" a plná farba pásu ho prekryla (kým bol pás priehľadný, text presvital).
