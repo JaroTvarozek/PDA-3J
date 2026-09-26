@@ -1,5 +1,11 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.6 — 2026-09-26
+
+**Dokumentácia podľa vzoru** — tmavomodrá hlavička s ikonou dokumentu; *Výkres* a *Components / BOM* ako dve veľké dlaždice s ikonou v kruhu, podnadpisom a šípkou (Výkres svetlomodrý, BOM biely); Výkres ukazuje ďalej číslo výkresu a revíziu. Zvislá deliaca čiara oddeľuje prepínač *Stroj* a *Operation Complete*. Len vzhľad — obe tlačidlá robia to isté ako predtým.
+
+**Prihlasovacia stránka — poistka** — tlačidlo Azure a odkaz „meno a heslo" sa hľadajú aj podľa textu a toho, že patria stránke Login, nielen podľa názvu prvku, takže vzhľad z 3.2.5 sa uplatní aj vtedy, keď má prvok na stránke iný názov.
+
 ## 3.2.5 — 2026-09-26
 
 **Prihlasovacia stránka** — *Prihlásenie cez Azure* je väčšie modré tlačidlo s logom Microsoft, tieňom a nadvihnutím pod myšou. *Prihlásenie pomocou mena a hesla* je namiesto bieleho textu, ktorý sa na svetlom pozadí strácal, biele tlačidlo s tmavým textom. Len vzhľad — prihlasovanie funguje rovnako.
