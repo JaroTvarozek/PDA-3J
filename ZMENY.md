@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.9 — 2026-09-26
+
+**Zákazka a materiál: nové pozadie karty** — namiesto technickej kresby fotografia obrobku vpravo dole na bielom (JPEG 1100×619 / 26 kB, `karta-zakazka.jpg`, pôvodný obrázok `karta-zakazka.png`). Obrázok vypĺňa kartu a obrobok ostáva v pravom dolnom rohu; text sa na svetlom pozadí dobre číta.
+
 ## 3.2.8 — 2026-09-26
 
 **Pracoviská vo farbe oblasti** — každé pracovisko v rozbalenej oblasti má tenký rám (1 px) vo farbe svojej oblasti; pod myšou je rám plnou farbou s jemným nádychom a tieňom.
