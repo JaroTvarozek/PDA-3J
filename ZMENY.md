@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.0 — 2026-09-26
+
+**Úvodná obrazovka: oblasti pracovísk vo farbe** (podľa vzoru) — každá oblasť má vlastnú farbu: pruh vľavo, dlaždicu ikony aj ikonu. Assembly modrá, Welding oranžová, Machining tmavomodrá, Quality Control zelená. Oblasť, ktorá sa objaví navyše, dostane automaticky ďalšiu farbu (fialová, ružová, zlatá, …) — dve nové oblasti nikdy nemajú rovnakú. Nové ikony v jednotnom štýle: kľúč, plameň, ozubené koleso, lupa, pre inú oblasť krabica. Rozbalená oblasť má jemný nádych svojej farby a rám v nej.
+
 ## 3.1.7 — 2026-09-26
 
 **Úvodná obrazovka: Pracoviská stále rozbalené** — šípka na zbalenie panela *Pracoviská* je skrytá a obsah je vždy zobrazený. Len vzhľad (CSS), nič sa neklika; ostatné panely sa nemenia.
