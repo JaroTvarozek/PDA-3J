@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.1.4 — 2026-09-26
+
+**Nové pozadie — pozadie-5** (skúška). Obrobky v strede a vpravo, sklenené pásy, vľavo hore len značka HF, bez textov. Vložené ako JPEG 1672×941 / 105 kB (`pozadie-5.jpg`, pôvodný návrh `pozadie-5.png`). Návrat k predošlému pozadiu: `archiv/pda-suite-3j_3.1.3.user.js` (pozadie-3j).
+
 ## 3.1.3 — 2026-09-25
 
 **Vlastný repozitár** — verzia 3J má odteraz samostatný repozitár [JaroTvarozek/PDA-3J](https://github.com/JaroTvarozek/PDA-3J). Adresa aktualizácií ukazuje naň, takže Tampermonkey novú verziu stiahne sám. Všetky staršie verzie sú v `archiv/`. Vzhľad ani funkcie sa nemenili.
