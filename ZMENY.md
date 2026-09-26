@@ -1,5 +1,11 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.14 — 2026-09-26
+
+**Načítavanie** — namiesto čakacích značiek S v každej karte je jedna, 3× väčšia, v strede obrazovky (rovnaký vzhľad ako v appke). Karty sú počas načítania stále jemne zastreté. Okná (napr. BOM) a rozbaľovacie zoznamy si svoj indikátor nechávajú.
+
+**Stavové tlačidlá** — obrázky v pozadí ešte výraznejšie: sila 1,0 (predtým 0,65, pôvodne 0,5), zmiešanie „soft-light". Ďalší stupeň by bolo výraznejšie zmiešanie „overlay".
+
 ## 3.2.13 — 2026-09-26
 
 **Bočný panel PDA aj na hlavnej stránke** — panel (Výkresy, CHIPS, Majster, Materiál, TOOLSHOP, Ela, Flexus) je teraz aj na úvodnej obrazovke s pracoviskami, nielen v detaile pracoviska. Leží nad obsahom (nezaberá miesto) a dá sa schovať pásikom HF SLOVAKIA. Začína v jednej výške s kartou Vyhľadať zákazku, pri posúvaní stránky stojí a končí nad pätičkou (text v pätičke je vidieť). Na prihlásení, Reportoch, Správach, Rozvrhu a v Admine panel nie je.
