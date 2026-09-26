@@ -1,5 +1,13 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.15 — 2026-09-26
+
+**Opravy po kontrole kódu** (vzhľad sa nemení):
+- výška ľavého zoznamu má rezervu 8 px pod sebou (väčšiu než prah zmeny výšky), takže detail nikdy nepretečie ani o pár px a nedá sa posunúť pod hlavičku;
+- keď je stránka posunutá, výška zoznamu sa ráta bez posunu (predtým mohla spadnúť na náhradných 460 px);
+- s pevne pripnutým ľavým stĺpcom (rozpracovaný modul) sa zoznam pri posúvaní nezmenšuje;
+- bočný panel rozpoznáva hlavnú stránku len podľa toho, či je naozaj zobrazená — do appky pri tom nezasahuje (predtým volal funkciu, ktorá pri štarte appky mohla ovplyvniť prvú otvorenú stránku).
+
 ## 3.2.14 — 2026-09-26
 
 **Načítavanie** — namiesto čakacích značiek S v každej karte je jedna, 3× väčšia, v strede obrazovky (rovnaký vzhľad ako v appke). Karty sú počas načítania stále jemne zastreté. Okná (napr. BOM) a rozbaľovacie zoznamy si svoj indikátor nechávajú.
