@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.8 — 2026-09-26
+
+**Pracoviská vo farbe oblasti** — každé pracovisko v rozbalenej oblasti má tenký rám (1 px) vo farbe svojej oblasti; pod myšou je rám plnou farbou s jemným nádychom a tieňom.
+
 ## 3.2.7 — 2026-09-26
 
 **Rámy kariet na úvodnej obrazovke** — *Osobný stav*, *Vyhľadať zákazku* a *Pracoviská* majú rovnaký rám, plochu a tieň ako ostatné karty. Hlavne počas načítavania boli bez rámu a pod „čakacím" závojom aplikácie vyzerali ako vyblednuté obdĺžniky. Závoj je jemnejší a má zaoblenie karty. *Osobný stav* je odteraz samostatná karta (predtým priehľadný obal).
