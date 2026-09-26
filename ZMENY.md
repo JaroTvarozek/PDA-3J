@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.5 — 2026-09-26
+
+**Prihlasovacia stránka** — *Prihlásenie cez Azure* je väčšie modré tlačidlo s logom Microsoft, tieňom a nadvihnutím pod myšou. *Prihlásenie pomocou mena a hesla* je namiesto bieleho textu, ktorý sa na svetlom pozadí strácal, biele tlačidlo s tmavým textom. Len vzhľad — prihlasovanie funguje rovnako.
+
 ## 3.2.4 — 2026-09-26
 
 **Hrubší farebný rám oblastí** na úvodnej obrazovke — 3 px namiesto 1,5 px; pruh vľavo ostáva 8 px.
