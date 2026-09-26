@@ -1,5 +1,11 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.16 — 2026-09-26
+
+**Drobné opravy po druhej kontrole kódu:**
+- klik na hlavičku Osobný stav už panel ani vnútorne nezbalí a hlavička nemá kurzor ruky;
+- neaktívna dlaždica Components / BOM (alebo Výkres) sa pod myšou nenadvihne.
+
 ## 3.2.15 — 2026-09-26
 
 **Opravy po kontrole kódu** (vzhľad sa nemení):
