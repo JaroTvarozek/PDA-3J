@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.1.5 — 2026-09-26
+
+**Zaoblené hlavičky** — pás hlavičky má zaoblené oba horné rohy rovnako ako karta (predtým mal vľavo hore ostrý roh, lebo sa spoliehal na orezanie kartou, ktoré nie všade fungovalo). Platí pre všetky lišty: Stav operácie, Dokumentácia, Zákazka a materiál, SAP časy, Popis operácie, Paralelné procesy, Prehľad zdrojov, PDA, Pracovný zoznam.
+
 ## 3.1.4 — 2026-09-26
 
 **Nové pozadie — pozadie-5** (skúška). Obrobky v strede a vpravo, sklenené pásy, vľavo hore len značka HF, bez textov. Vložené ako JPEG 1672×941 / 105 kB (`pozadie-5.jpg`, pôvodný návrh `pozadie-5.png`). Návrat k predošlému pozadiu: `archiv/pda-suite-3j_3.1.3.user.js` (pozadie-3j).
