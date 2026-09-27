@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.23 — 2026-09-27
+
+**Pracovný zoznam — malé koláče pri položke.** Vpravo na každej položke sú dva malé koláčové grafy (prípravný a strojný čas), len graficky, bez čísel — hotová časť zelená. Zobrazia sa **len ak je aspoň jeden z nich načatý** (hotovo > 0); ak nie, nezobrazí sa nič. Podrobné čísla ostávajú v okne detailu po prejdení myšou.
+
 ## 3.2.22 — 2026-09-27
 
 **Okno detailu operácie — časy ako koláče.** Pod Pracoviskom už nie sú textové riadky, ale dva koláčové grafy vedľa seba: **Prípravný čas** a **Strojný čas** — tie isté údaje, aké appka kreslí pri operácii. Každý koláč má percento v strede (hotová časť zelená) a pod ním minúty *Hotovo* a *Zostáva*. Bez animácie, prehľadne. Ostatné polia (sekvencia, popis, poradie, náhradné pracovisko, „last update") sú preč, okno je širšie (780 px).
