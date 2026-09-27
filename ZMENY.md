@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.19 — 2026-09-27
+
+**Pracovný zoznam — detail operácie vo veľkom okne.** Namiesto malej bublinky pri kurzore sa po prejdení myšou nad položkou zobrazí veľké okno v strede obrazovky s tmavomodrou hlavičkou (ako ostatné okná) a prehľadnou tabuľkou väčším, dobre čitateľným písmom. V tabuľke je všetko, čo sa o operácii dá zistiť: výrobná zákazka, operácia, sekvencia, zákaznícka zákazka, SAP číslo materiálu, názov, množstvo, stav, kategória, pracovisko, popis operácie a všetky ďalšie polia s hodnotou (napr. časy v minútach, ak ich appka dodá). Okno je len náhľad — nemá stmavené pozadie a neblokuje klikanie v zozname; zmizne, keď z položky odídeš myšou.
+
 ## 3.2.18 — 2026-09-26
 
 **Oprava po kontrole kódu** — posuvník *Výraznosť obrázkov na stavových tlačidlách* funguje aj vtedy, keď je modul Dizajn 3J vypnutý (pravidlo je teraz aj v základnom novom dizajne). Vzhľad s predvolenými nastaveniami sa nemení.
