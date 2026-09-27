@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.22 — 2026-09-27
+
+**Okno detailu operácie — časy ako koláče.** Pod Pracoviskom už nie sú textové riadky, ale dva koláčové grafy vedľa seba: **Prípravný čas** a **Strojný čas** — tie isté údaje, aké appka kreslí pri operácii. Každý koláč má percento v strede (hotová časť zelená) a pod ním minúty *Hotovo* a *Zostáva*. Bez animácie, prehľadne. Ostatné polia (sekvencia, popis, poradie, náhradné pracovisko, „last update") sú preč, okno je širšie (780 px).
+
 ## 3.2.21 — 2026-09-27
 
 **Pätička vľavo** — namiesto „HF SLOVAKIA — Better Parts. A Cleaner Tomorrow." je teraz „HF GROUP - Extension by HF Slovakia".
