@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.20 — 2026-09-27
+
+**Okno detailu operácie — úpravy podľa pripomienok.** Z tabuľky som odstránil *Sekvenciu*, *Popis operácie*, *Náhradné pracovisko* aj riadky typu „last update“ (posledná zmena). Riadok *Pracovisko* sa vyplní aj vtedy, keď ho položka sama neobsahuje (vezme sa z hlavičky detailu). Okno je o 30 % širšie (780 px), aby sa dlhé názvy zmestili na jeden riadok.
+
 ## 3.2.19 — 2026-09-27
 
 **Pracovný zoznam — detail operácie vo veľkom okne.** Namiesto malej bublinky pri kurzore sa po prejdení myšou nad položkou zobrazí veľké okno v strede obrazovky s tmavomodrou hlavičkou (ako ostatné okná) a prehľadnou tabuľkou väčším, dobre čitateľným písmom. V tabuľke je všetko, čo sa o operácii dá zistiť: výrobná zákazka, operácia, sekvencia, zákaznícka zákazka, SAP číslo materiálu, názov, množstvo, stav, kategória, pracovisko, popis operácie a všetky ďalšie polia s hodnotou (napr. časy v minútach, ak ich appka dodá). Okno je len náhľad — nemá stmavené pozadie a neblokuje klikanie v zozname; zmizne, keď z položky odídeš myšou.
