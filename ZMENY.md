@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.27 — 2026-09-27
+
+**Detail — využitie miesta vpravo a menšie koláče v zozname.** Pravý stĺpec detailu (Stav operácie, Dokumentácia, Zákazka, SAP časy, Popis, Paralelné procesy) sa roztiahol na celú zvyšnú šírku okna — vpravo už nezostáva prázdne miesto (ľavý zoznam má pevných 430 px, pravá časť teraz vyplní zvyšok). Tri koláče časov pri položke zoznamu sú menšie a odsadené od posuvníka, takže vidno všetky tri.
+
 ## 3.2.26 — 2026-09-27
 
 **Čiara pod hlavičkou kariet detailu.** Karty Stav operácie, Zákazka a materiál, SAP časy, Prehľad zdrojov, Paralelné procesy a Popis operácie majú pod hlavičkou čiaru v rovnakej farbe aj hrúbke ako rám okna (1,5 px tmavomodrá #13315c). Dokumentácia má celú hlavičku tmavomodrú, tam čiara netreba.
