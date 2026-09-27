@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.24 — 2026-09-27
+
+**Tri časy namiesto dvoch.** V pracovnom zozname aj v okne detailu sú teraz tri koláče — **prípravný, strojný a ľudský čas** (Setup, Machine, Labor) — v rovnakom poradí ako v hlavnom paneli SAP ČASY. V zozname sú len grafické (bez čísel) a ukážu sa, keď je aspoň jeden z troch načatý; v okne detailu majú percento a minúty hotovo/zostáva.
+
 ## 3.2.23 — 2026-09-27
 
 **Pracovný zoznam — malé koláče pri položke.** Vpravo na každej položke sú dva malé koláčové grafy (prípravný a strojný čas), len graficky, bez čísel — hotová časť zelená. Zobrazia sa **len ak je aspoň jeden z nich načatý** (hotovo > 0); ak nie, nezobrazí sa nič. Podrobné čísla ostávajú v okne detailu po prejdení myšou.
