@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.21 — 2026-09-27
+
+**Pätička vľavo** — namiesto „HF SLOVAKIA — Better Parts. A Cleaner Tomorrow." je teraz „HF GROUP - Extension by HF Slovakia".
+
 ## 3.2.20 — 2026-09-27
 
 **Okno detailu operácie — úpravy podľa pripomienok.** Z tabuľky som odstránil *Sekvenciu*, *Popis operácie*, *Náhradné pracovisko* aj riadky typu „last update“ (posledná zmena). Riadok *Pracovisko* sa vyplní aj vtedy, keď ho položka sama neobsahuje (vezme sa z hlavičky detailu). Okno je o 30 % širšie (780 px), aby sa dlhé názvy zmestili na jeden riadok.
