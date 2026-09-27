@@ -1,5 +1,9 @@
 # PDA Suite 3J — zmeny
 
+## 3.2.26 — 2026-09-27
+
+**Čiara pod hlavičkou kariet detailu.** Karty Stav operácie, Zákazka a materiál, SAP časy, Prehľad zdrojov, Paralelné procesy a Popis operácie majú pod hlavičkou čiaru v rovnakej farbe aj hrúbke ako rám okna (1,5 px tmavomodrá #13315c). Dokumentácia má celú hlavičku tmavomodrú, tam čiara netreba.
+
 ## 3.2.25 — 2026-09-27
 
 **Okno detailu operácie** — odstránený riadok *Stav*.
