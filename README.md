@@ -46,7 +46,8 @@ Bez toho 3J nepozná adresu Excelu a nenájde výkres.
 | `archiv/` | všetky vydané verzie `pda-suite-3j_<verzia>.user.js` |
 | `ZMENY.md` | čo sa v ktorej verzii zmenilo |
 | `pozadie-5.jpg` | obrázok v pozadí stránky — v skripte je vložený, tu je len ako zdroj na úpravy |
-| `karta-zakazka.jpg` | obrázok v karte Zákazka a materiál — v skripte je vložený, tu je len ako zdroj na úpravy |
+| `karta-logo-hf.svg` | logo HF v pozadí karty Zákazka a materiál (od 3.2.28) — v skripte je vložené, tu je len ako zdroj na úpravy |
+| `karta-zakazka.jpg` | predošlá fotka obrobku v karte Zákazka (do 3.2.27), už sa nepoužíva |
 
 Úpravy vzhľadu sú v module **Dizajn 3J (Jaro)** (sekcia 3.20 v skripte) — dá sa vypnúť
 v ⚙ a vtedy má 3J vzhľad Production 2.3.0.
